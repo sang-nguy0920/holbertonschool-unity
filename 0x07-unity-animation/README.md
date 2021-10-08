@@ -1,4 +1,4 @@
-# 0x07-unity-animation  
+# 0x07. Unity - Animation  
 
 General
 
@@ -10,4 +10,3 @@ General
     What is a State Machine
     What is a Sub-State Machine
     What is Root Motion
-
